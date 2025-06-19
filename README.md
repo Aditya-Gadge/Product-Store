@@ -76,25 +76,24 @@ product-store/
 
 
 ## 🚀 Getting Started (Development)
-- Prerequisites
-- Node.js
-- MongoDB (local or Atlas)
+Prerequisites
+Node.js
+MongoDB (local or Atlas)
 
 ## Installation
-# Clone the repo
+```
+Clone the repo
 git clone https://github.com/Aditya-Gadge/product-store.git
 
-# Install backend and frontend dependencies
+Install backend and frontend dependencies
 npm run build
 
-# Run Application
+Run Application
 npm run start
 
-## 📬 Feedback & Contributions
+📬 Feedback & Contributions
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## 📄 License
-This project is licensed under the MIT License.
+```
 
 ## 🙋‍♂️ Author
 Developed by Aditya Gadge 👨‍💻
