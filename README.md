@@ -54,7 +54,7 @@ Update product details in a modal pop-up.
 
 ## 📁 Project Structure
 
-
+```
 product-store/
 ├── backend/
 │   ├── server.js
@@ -71,6 +71,8 @@ product-store/
 ├── .env
 ├── package.json
 └── README.md
+
+```
 
 
 ## 🚀 Getting Started (Development)
