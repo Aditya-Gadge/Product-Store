@@ -2,7 +2,7 @@
 
 **Product Store** is a full-stack web application built using the **MERN Stack** (MongoDB, Express.js, React, Node.js). It allows users to perform CRUD operations (Create, Read, Update, Delete) on products through a user-friendly interface.
 
-## 🌐 Live Demo
+# 🌐 Live Demo
 [Visit Live Site](https://product-store-1-wvpp.onrender.com)
 
 ---
